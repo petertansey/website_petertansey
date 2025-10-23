@@ -8,6 +8,8 @@ about:
 
 :::{#me}
 
+I like pumpkins.
+
 ## Goals
 
 Get an ecological data scientist position. 
